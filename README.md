@@ -1,6 +1,7 @@
 # Explore Close Approaches of Near-Earth Objects
 
-> This README is exactly what is provided by Udacity in this project. This is the first project in the [Intermediate Python Nanodegree](https://www.udacity.com/course/intermediate-python-nanodegree--nd303).
+> Except for the first two notes, this README is exactly what is provided by Udacity in this project. This is the first project in the [Intermediate Python Nanodegree](https://www.udacity.com/course/intermediate-python-nanodegree--nd303).
+
 > One of the files in the data folder is named `cad.json` was too big to upload on GitHub. So, here is a [link](https://drive.google.com/file/d/1yEcoRYalPXVMpqKxq3nR786MOjtIFYa1/view?usp=sharing) to it on Google Drive.
 
 In this project, you'll use Python - and the skills we've developed throughout this course - to search for and explore close approaches of near-Earth objects (NEOs), using data from NASA/JPL's Center for Near Earth Object Studies.
